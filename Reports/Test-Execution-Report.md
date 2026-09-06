@@ -5,15 +5,17 @@ Kalakriti E-Commerce Website
 
 ## Test Summary
 
-| Module | Total Cases | Passed | Failed | Not Executed |
-|----------|-------------|---------|---------|--------------|
-| Login | 20 | 20 | 0 | 20 |
-| Registration | 20 | 0 | 0 | 20 |
-| Search | 20 | 0 | 0 | 20 |
-| Cart | 20 | 0 | 0 | 20 |
-| Checkout | 20 | 0 | 0 | 20 |
-| Profile | 20 | 0 | 0 | 20 |
-| Orders | 20 | 0 | 0 | 20 |
+| Module         | Passed | Failed |
+| -------------- | ------ | ------ |
+| Login          | 20     | 0      |
+| Registration   | 20     | 0      |
+| Search         | 20     | 0      |
+| Cart           | 20     | 0      |
+| Checkout       | 20     | 0      |
+| Profile        | 20     | 0      |
+| Orders         | 20     | 0      |
+| API Validation | 4      | 1      |
+
 
 Total Cases: 140
 
