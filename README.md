@@ -1,23 +1,29 @@
 # Kalakriti QA Portfolio
 
-This repository contains end-to-end QA testing for the Kalakriti E-Commerce Website.
+## Project Overview
 
-## Testing Scope
+Performed end-to-end QA testing for the Kalakriti E-Commerce application.
 
-- Manual Testing
+### Activities Performed
+
+- Test Planning
+- Feature Gap Analysis
 - Functional Testing
-- API Testing (Postman)
-- UI Automation (Playwright)
-- Performance Testing (JMeter)
-- Security Testing (OWASP ZAP)
-- CI/CD (GitHub Actions)
-- Reporting Dashboard
+- Test Case Design
+- Test Execution
+- Defect Reporting
+- API Investigation
+- Metrics Reporting
 
-## Application Under Test
+### Results
 
-Kalakriti E-Commerce Website
+- 140 Test Cases Designed
+- 140 Test Cases Executed
+- 3 Defects Identified
+- 97.86% Pass Rate
 
-## Author
+### Tools Used
 
-Disha Agarwal
-QA Engineer Portfolio Project
+- GitHub
+- Chrome DevTools
+- Markdown
